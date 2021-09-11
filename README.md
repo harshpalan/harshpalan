@@ -1,10 +1,6 @@
 ### Hi there 👋
-<img src="header.gif" width="100%">
-
-<!--
-**harshpalan/harshpalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
+<img src="header.gif" width="75%" alt="header">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpalan" alt="profile-views" /> </p>
 
 - 🔭 I’m currently working as software engineer at Wolters Kluwer.
 - 🌱 I’m currently learning p5.js,processing and three.js
