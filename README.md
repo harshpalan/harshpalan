@@ -4,21 +4,22 @@
 <img src="header.gif" width="75%" alt="header">
 </p>
 
-<ul style="text-align:center;">
- <li>🔭 I’m currently working as Software Engineer at Wolters Kluwer and a part-time Freelance AR/3D artist.</li>
- <li>🌱 I’m currently learning p5.js,processing and three.js</li>
- <li>👯 I’m looking to collaborate on AR projects or generative art projects.</li>
-</ul>
+<p align="center">
+ <ul>
+  <li>🔭 I’m currently working as Software Engineer at Wolters Kluwer and a part-time Freelance AR/3D artist.</li>
+  <li>🌱 I’m currently learning p5.js,processing and three.js</li>
+  <li>👯 I’m looking to collaborate on AR projects or generative art projects.</li>
+ </ul>
+</p>
 
-
-<h2 align="center">My github stats📊📈📉</h2>
+<h2 align="center">My github stats 📊📈📉</h2>
  
  <p align="center"><img src="https://komarev.com/ghpvc/?username=harshpalan&color=lightgrey&style=flat-square&label=Visitors" alt="profile-views" /></p>
  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=harshpalan&show_icons=true&theme=dark" alt="github-stats" /></p>
  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpalan&layout=compact&theme=dark" alt="github-lang-stats" /></p>
 
 
-## Toolkit
+<h2 align="center">Tools 🛠</h2>
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
