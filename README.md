@@ -43,19 +43,19 @@
 
 <h2 align="center">Let's Connect🤙</h2>
 <p align="center">
- <a href="https://www.linkedin.com/in/harshpalan/" target="_parent">
+ <a href="https://www.linkedin.com/in/harshpalan/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="https://twitter.com/harsh_palan/" target="_parent">
+ <a href="https://twitter.com/harsh_palan/">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
- <a href="https://www.instagram.com/harsh.palan/" target="_parent">
+ <a href="https://www.instagram.com/harsh.palan/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&"/>
  </a>
- <a href="https://www.behance.net/harshpalan" target="_parent">
+ <a href="https://www.behance.net/harshpalan">
   <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
  </a>
- <a href="https://www.reddit.com/user/harsh_palan/" target="_parent">
+ <a href="https://www.reddit.com/user/harsh_palan/">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> 
  </a>
 </p>
