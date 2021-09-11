@@ -5,19 +5,18 @@
 </p>
 
 <ul align="center">
- <li>🔭 I’m currently working as Software Engineer at Wolters Kluwer and a part-time Freelance AR/3D artist.</li>
- <li>🌱 I’m currently learning p5.js,processing and three.js</li>
- <li>👯 I’m looking to collaborate on AR projects or generative art projects.</li>
+ <li align="center">🔭 I’m currently working as Software Engineer at Wolters Kluwer and a part-time Freelance AR/3D artist.</li>
+ <li align="center">🌱 I’m currently learning p5.js,processing and three.js</li>
+ <li align="center">👯 I’m looking to collaborate on AR projects or generative art projects.</li>
 </ul>
 
 
 <h2 align="center">Hi there 👋</h2>
  
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=harshpalan&color=lightgrey&style=flat-square&label=Visitors" alt="profile-views" />
- <img src="https://github-readme-stats.vercel.app/api?username=harshpalan&show_icons=true&theme=dark" alt="github-stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpalan&layout=compact&theme=dark" alt="github-lang-stats" />
-</p>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=harshpalan&color=lightgrey&style=flat-square&label=Visitors" alt="profile-views" /></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=harshpalan&show_icons=true&theme=dark" alt="github-stats" /></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpalan&layout=compact&theme=dark" alt="github-lang-stats" /></p>
+
 
 ## Toolkit
 <p align="center">
