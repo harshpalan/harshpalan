@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="header.gif" width="75%" alt="header">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpalan&color=grey&style=plastic" alt="profile-views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpalan&color=lightgrey&style=plastic" alt="profile-views" /> </p>
 
 - 🔭 I’m currently working as software engineer at Wolters Kluwer.
 - 🌱 I’m currently learning p5.js,processing and three.js
