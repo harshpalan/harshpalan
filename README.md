@@ -38,4 +38,9 @@
  <img src="https://img.shields.io/badge/p5.js-ed225d?style=for-the-badge&logo=p5.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
+
+<h2 align="center">Let's Connect🤙</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/harshpalan/"/>
+</p>
  
