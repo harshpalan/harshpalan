@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="header.gif" width="200">
+<img src="header.gif" width="100%">
 
 <!--
 **harshpalan/harshpalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
