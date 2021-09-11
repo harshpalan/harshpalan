@@ -10,5 +10,5 @@
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshpalan&show_icons=true&theme=dark" alt="github-stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpalan&layout=compact&theme=dark" alt="github-lang-stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpalan&layout=compact)]
