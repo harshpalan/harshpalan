@@ -4,13 +4,12 @@
 <img src="header.gif" width="75%" alt="header">
 </p>
 
-<p align="center">
- <ul>
+
+ <ul style="text-align: center;list-style-position: inside;">
   <li>🔭 I’m currently working as Software Engineer at Wolters Kluwer and a part-time Freelance AR/3D artist.</li>
   <li>🌱 I’m currently learning p5.js,processing and three.js</li>
   <li>👯 I’m looking to collaborate on AR projects or generative art projects.</li>
  </ul>
-</p>
 
 <h2 align="center">My github stats 📊📈📉</h2>
  
