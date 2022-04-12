@@ -5,7 +5,7 @@
 </p>
  -->
 
-<img align="right" src="logo.gif" alt="logo" width="30%"/>
+<img align="right" src="logo.gif" alt="logo" width="25%"/>
 <br>
 <br>
 <br>
@@ -17,7 +17,7 @@
 </ul>
 
 <br>
-
+<br>
 <h2 align="center">My github stats 📊📈📉</h2>
  
  <p align="center"><img src="https://komarev.com/ghpvc/?username=harshpalan&color=lightgrey&style=flat-square&label=Visitors" alt="profile-views" /></p>
