@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center"> 
-<img src="header.gif" width="75%" alt="header">
+<img src="memoji.gif" width="50%" alt="header">
 </p>
 
 
