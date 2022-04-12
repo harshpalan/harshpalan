@@ -2,6 +2,8 @@
 
 <p align="left"> 
 <img src="memoji.gif" width="50%" alt="header">
+</p>
+<p align="right">
  <ul style="text-align: center;list-style-position: inside;">
   <li>🔭 I’m currently working as Software Engineer at Wolters Kluwer and I'm also a Freelance AR/3D artist.</li>
   <li>🌱 I’m currently learning p5.js,processing and three.js</li>
