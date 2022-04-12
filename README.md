@@ -1,18 +1,22 @@
 <h2 align="center">Hi there 👋</h2>
 
-<p align="left"> 
-<img src="memoji.gif" width="50%" alt="header">
+<!-- <p align="center"> 
+<img src="memoji.gif" width="30%" alt="header">
 </p>
-<p align="right">
- <ul style="text-align: center;list-style-position: inside;">
-  <li>🔭 I’m currently working as Software Engineer at Wolters Kluwer and I'm also a Freelance AR/3D artist.</li>
-  <li>🌱 I’m currently learning p5.js,processing and three.js</li>
-  <li>👯 I’m looking to collaborate on AR projects or generative art projects.</li>
- </ul>
-</p>
+ -->
 
+<img align="right" src="logo.gif" alt="logo" width="30%"/>
+<br>
+<br>
+<br>
+<ul>
+   <li>👨‍💻 Working as Software Engineer @ Wolters Kluwer.</li>
+   <li>👨🏻‍🎨 Also a Freelance AR/3D artist.</li>
+   <li>🌱 Currently learning p5.js,processing and three.js</li>
+   <li>🤝🏻 Looking to collaborate on AR projects or generative art projects.</li>
+</ul>
 
- 
+<br>
 
 <h2 align="center">My github stats 📊📈📉</h2>
  
