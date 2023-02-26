@@ -12,7 +12,7 @@
 <ul>
    <li>👨‍💻 Studing Integrated Design & Media @ NYU </li>
    <li>👨🏻‍🎨 Also a Freelance AR/3D artist.</li>
-   <li>🌱 Currently exploring p5.js</li>
+<!--    <li>🌱 Currently exploring p5.js</li> -->
    <li>🤝🏻 Looking to collaborate on AR projects or generative art projects.</li>
 </ul>
 
