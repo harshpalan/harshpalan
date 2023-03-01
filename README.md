@@ -62,8 +62,8 @@
  <a href="https://www.behance.net/harshpalan">
   <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
  </a>
- <a href="https://www.reddit.com/user/harsh_palan/">
+<!-- <a href="https://www.reddit.com/user/harsh_palan/">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> 
- </a>
+ </a> -->
 </p>
  
