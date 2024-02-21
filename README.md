@@ -21,7 +21,6 @@
 <h2 align="center">My github stats 📊📈📉</h2>
  
  <p align="center"><img src="https://komarev.com/ghpvc/?username=harshpalan&color=lightgrey&style=flat-square&label=Visitors" alt="profile-views" /></p>
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=harshpalan&show_icons=true&theme=dark" alt="github-stats" /></p>
  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpalan&layout=compact&theme=dark" alt="github-lang-stats" /></p>
 
 
