@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Creative+Technologist+%F0%9F%9A%80;AI+Tools+%26+Developer+Platforms+%F0%9F%9B%A0%EF%B8%8F;Generative+Art+Explorer+%E2%9C%A8;Building+at+the+intersection+of+Art+%26+Code" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+25&size=30&pause=1000&color=D2D2D2&center=true&vCenter=true&width=600&lines=Creative+Technologist+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Generative+AI+Prototyping+%F0%9F%9B%A0%EF%B8%8F;AI+Tools+and+Developer+Platforms+%F0%90%93%99;Building+At+The+Intersection+of+Art+and+Code+%E2%8B%92" alt="Typing SVG" /></a>
 <br/>
 
 <img src="logo.gif" alt="logo" width="200"/>
@@ -61,6 +60,7 @@ I'm Harsh Palan. I build things with code, break things with curiosity, and occa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
 ---
 <div align="center">
   <picture>
@@ -69,6 +69,7 @@ I'm Harsh Palan. I build things with code, break things with curiosity, and occa
     <img alt="snake eating contributions" src="https://github.com/harshpalan/harshpalan/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
 <!--
 ### 📊 GitHub Stats
 
